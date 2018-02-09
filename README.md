@@ -1,5 +1,5 @@
-### Name of programming language: Ruby  
-### Name of database software: SQLite3
+### Language: Ruby  
+### Database software: SQLite3
 
 ### How to run:
 
